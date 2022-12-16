@@ -1,4 +1,4 @@
-# Lomibao_Github_Links
+# Lomibao.Github.io
 Prelims Hands on activities
 
 https://github.com/qjjslomibao/CPE232_LOMIBAO
