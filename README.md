@@ -38,3 +38,6 @@ https://github.com/qjjslomibao/Hands-on-Activity-15.1
 Finals Exam
 
 https://github.com/qjjslomibao/LOMIBAO_FINALEXAM
+
+Reflection and Learnings
+- Doing this activities and exams 
