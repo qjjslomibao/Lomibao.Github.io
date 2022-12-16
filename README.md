@@ -40,4 +40,4 @@ Finals Exam
 https://github.com/qjjslomibao/LOMIBAO_FINALEXAM
 
 Reflection and Learnings
-- Doing this activities and exams 
+- Doing these past activities really help me to create a workflow properly that can easily understand. Downloading and installing files using different commands that I can create or search on the internet. Using different types of ansible and using a playbook and using many commands to run it. Using GitHub really help me to save and store files that I can easily access.  These activities will help me in the future like saving files and storing them in GitHub. 
